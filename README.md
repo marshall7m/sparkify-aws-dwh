@@ -34,7 +34,7 @@ log_data/2018/11/2018-11-13-events.json
 
 # Schema for Song Play Analysis
 
-![diagram]('dwh_diagram.png)
+![diagram]('./dwh_diagram.png)
 
 ## Primary Key Explanation
 
