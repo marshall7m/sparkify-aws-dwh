@@ -61,8 +61,8 @@ log_data/2018/11/2018-11-13-events.json
 # Run the Code
 
 If homebrew and git is not installed (macOS/Linux), paste commands in terminal:
-    - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-    - `brew install git`
+	- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+	- `brew install git`
 
 - `git clone https://github.com/marshall7m/sparkify_aws_dwh.git`
 - `pip3 install -r requirements.txt`
