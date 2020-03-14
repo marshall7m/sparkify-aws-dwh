@@ -57,6 +57,7 @@ log_data/2018/11/2018-11-13-events.json
 - create_table.py: Creates fact and dimension tables for star schema in Redshift
 - etl.py: Loads data from S3 into staging tables on Redshift and processes data into analytics tables on Redshift
 - sql_queries.py: SQL statements used in the two files above.
+- dwh.cfg: Config file containing AWS account credentials, cluster credentials and cluster paramters. 
 
 ## Run the Code
 
